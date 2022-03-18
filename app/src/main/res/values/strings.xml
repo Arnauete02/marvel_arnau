@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="by">By:</string>
+    <string name="web">WEB</string>
+    <string name="author">AUTHOR</string>
+    <string name="contact">CONTACT</string>
+</resources>
